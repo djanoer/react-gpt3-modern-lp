@@ -5,7 +5,7 @@ Landing Page Modern GPT-3 Full Responsive
 =============================================
 
 
-Demo: https://https://react-gpt3-modern-lp.netlify.app/
+Demo: https://react-gpt3-modern-lp.netlify.app/
 
 
 Source:
