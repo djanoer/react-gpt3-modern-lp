@@ -1,3 +1,26 @@
+=============================================
+
+Landing Page Modern GPT-3 Full Responsive
+
+=============================================
+
+
+Demo: https://https://react-gpt3-modern-lp.netlify.app/
+
+
+Source:
+Github Code:https://github.com/djanoer/react-gpt3-modern-lp
+
+
+Reference:
+https://www.youtube.com/watch?v=LMagNcngvcU
+
+Thank You:
+JavaScript Mastery
+
+============================================
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
